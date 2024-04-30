@@ -1,0 +1,15 @@
+label{
+    margin-right: 1rem;
+}
+
+.updown{
+    display: flex;flex-direction: column;
+}
+
+label + input{
+    min-width: 18rem;
+}
+
+table th,td{
+    text-align: center;
+}
